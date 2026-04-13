@@ -10,7 +10,7 @@ pipeline {
 
         stage('Clone Code') {
             steps {
-                git 'https://github.com/maciekt07/TodoApp.git'
+                git 'https://github.com/vishwachandra2710/to-do-devops'
             }
         }
 
